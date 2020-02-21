@@ -1,0 +1,31 @@
+Prefix: "&8&lMagic 8-Ball &7&l>>"
+Not-Player: '&cOnly players can execute this command!'
+Instruction: '&fAsk me a question with /8ball <question>'
+Affirmative: '&fAnswers with &aGreen color &fare &aAffirmative'
+Non-committal: '&fAnswers with &eYellow color &fare &eNon-committal'
+Negative: '&fAnswers with &cRed color &fare &cNegative'
+No-permission: '&cYou don''t have permission to do this!'
+#Answers for questions
+Affirmative-answer:
+  1: '&aIt is certain'
+  2: '&aIt is decidedly so'
+  3: '&aWithout a doubt'
+  4: '&aYes - definitely'
+  5: '&aYou may rely on it'
+  6: '&aAs I see it, yes'
+  7: '&aMost likely'
+  8: '&aOutlook good'
+  9: '&aYes'
+  10: '&aSigns point to yes'
+Non-committal-answer:
+  1: '&eReply hazy, try again'
+  2: '&eAsk again later'
+  3: '&eBetter not tell you now'
+  4: '&eCannot predict now'
+  5: '&eConcentrate and ask again'
+Negative-answer:
+  1: '&cDon''t count on it'
+  2: '&cMy reply is no'
+  3: '&cMy sources say no'
+  4: '&cOutlook not so good'
+  5: '&cVery doubtful'

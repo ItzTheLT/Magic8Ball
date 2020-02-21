@@ -1,0 +1,9 @@
+main: me.thelt.eightball.Main
+name: 8Ball
+author: TheLT
+version: 1.0
+description: It will give you answers about your questions
+commands:
+  8ball:
+    alias: [eightball, eball]
+    permission: Eightball.command
